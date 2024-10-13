@@ -1,27 +1,24 @@
-# CashRegisterManager
+# 🌈 Cash Register Manager
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
+This Angular application helps users calculate the change to be returned based on the total amount and the amount paid.
 
-## Development server
+![Cash Register Manager Logo](https://via.placeholder.com/800x200?text=Cash+Register+Manager+Logo)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🎉 Features
+- Calculate change based on total amount and amount paid.
+- Display denominations with their respective counts.
+- Responsive design for optimal use on all devices.
 
-## Code scaffolding
+## 🛠️ Technologies Used
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+| Tech Stack       | Logo                                           |
+|------------------|------------------------------------------------|
+| **Angular**      | ![Angular Logo](https://via.placeholder.com/50?text=Angular) |
+| **Bootstrap**    | ![Bootstrap Logo](https://via.placeholder.com/50?text=Bootstrap) |
+| **TypeScript**   | ![TypeScript Logo](https://via.placeholder.com/50?text=TypeScript) |
+| **HTML/CSS**     | ![HTML5 Logo](https://via.placeholder.com/50?text=HTML5) |
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## 🖥️ Usage
+1. Enter the **Total Amount** and **Amount Paid** in the respective input fields.
+2. Click the **Calculate Change** button.
+3. View the denominations with their counts displayed in the table below.
